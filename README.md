@@ -20,7 +20,7 @@ The goal is to understand how **external factors (CPI, fuel price, unemployment)
 - **Holiday Impact:** Holiday weeks contributed ~7.5% of total sales, with **Winter (Christmas, New Year)** driving the biggest spike.  
 - **Seasonal Impact:** Fall & Winter showed the strongest seasonal lift compared to Summer.  
 
-👉 See dashboard screenshots in [`/reports/dashboard_screenshots`](reports/dashboard_screenshots).
+👉 See dashboard screenshots in 
 <img width="1920" height="1200" alt="Screenshot 2025-08-17 151549" src="https://github.com/user-attachments/assets/b1d3e22b-c7c8-456a-b463-80f4dd8acd65" />
 <img width="1920" height="1200" alt="Screenshot 2025-08-17 151603" src="https://github.com/user-attachments/assets/68be3154-5a2a-462f-817c-a68eae8b4244" />
 <img width="1920" height="1200" alt="Screenshot 2025-08-17 151618" src="https://github.com/user-attachments/assets/2efc96eb-87fc-47f4-9238-1c50b55ac8f6" />
@@ -47,8 +47,7 @@ The goal is to understand how **external factors (CPI, fuel price, unemployment)
 ## 📂 Repository Contents
 - `data/` → Raw & cleaned datasets  
 - `PowerBI/` → `.pbix` dashboard file  
-- `reports/` → Screenshots & PDF report  
-- `insights/` → [Detailed Insights](insights/insights.md)  
+- `insights/` → [Detailed Insights] 
 
 ---
 
